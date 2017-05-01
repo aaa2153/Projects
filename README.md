@@ -8,4 +8,4 @@ This Repository contains 2 projects.
 
 3) HomeMadeFood is a full stack website developed using HTML, Bootstrap, Jquery, AngularJS, Spring MVC, SQL Server and Azure for people to start their restaurant business from home by associating there YouTube channel to their account and delivering using services like Uber.
 
-4)SafeWay is a ios application developed using Objective-C, Spring MVC, SQL Server and Microsoft Azure for determining the safest route for GPS navigation based on location ratings by the user.      
+4) SafeWay is a ios application developed using Objective-C, Spring MVC, SQL Server and Microsoft Azure for determining the safest route for GPS navigation based on location ratings by the user.      
