@@ -10,4 +10,4 @@ This Repository contains 2 projects.
 
 4) SafeWay is a ios application developed using Objective-C, Spring MVC, SQL Server and Microsoft Azure for determining the safest route for GPS navigation based on location ratings by the user. 
 
-5) H1B visa status pridictor is developed using Hadoop, R and Spring MVC to predict H1B visa eligibility for a candidate based on several factors by using Hadoop for exploratory analysis and R for logistic regression on the available dataset.
+5) H1B visa eligibility pridictor is developed using Hadoop, R and Spring MVC to predict H1B visa eligibility for a candidate based on several factors by using Hadoop for exploratory analysis and R for logistic regression on the available dataset.
